@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AndreiApplication<andrei>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.andrei.andrei.AndreiApplication",
+            "projectName": "andrei",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
